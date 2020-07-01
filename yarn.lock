@@ -133,15 +133,15 @@
     semver "7.3.2"
     simple-git "2.10.0"
 
-"@ht2-labs/typescript-project@2.0.50":
-  version "2.0.50"
-  resolved "https://registry.yarnpkg.com/@ht2-labs/typescript-project/-/typescript-project-2.0.50.tgz#bebe7cc80b94db8e28d4cc492a55a951173ec822"
-  integrity sha512-MOwlq+ZiRi7l/P72z8Ik/yNWXLOWtnmvgRheL0FZ4vEdVIYRoRdQ+0Qqtsot5mGfOK5dI1k+BfOddEWUwx7Vdg==
+"@ht2-labs/typescript-project@2.0.58":
+  version "2.0.58"
+  resolved "https://registry.yarnpkg.com/@ht2-labs/typescript-project/-/typescript-project-2.0.58.tgz#27f4b1a4e93718d9df7c3abfd35635bfca658b4c"
+  integrity sha512-gu69mips6h4CosPmstVQaIRkI37p8hekXDdU6CMFSJ3v/AdTdTWEXUx9AvySq9gfwlSLySvQPmKopQO+mu8RyQ==
   dependencies:
     tslint "5.20.1"
     tslint-consistent-codestyle "1.16.0"
     tslint-immutable "4.9.1"
-    typescript "3.7.5"
+    typescript "3.9.6"
 
 "@iarna/cli@^1.2.0":
   version "1.2.0"
@@ -8377,6 +8377,11 @@ typescript@3.7.5:
   version "3.7.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.5.tgz#0692e21f65fd4108b9330238aac11dd2e177a1ae"
   integrity sha512-/P5lkRXkWHNAbcJIiHPfRoKqyd7bsyCma1hZNUGfn20qm64T6ZBlrzprymeu918H+mB/0rIg2gGK/BXkhhYgBw==
+
+typescript@3.9.6:
+  version "3.9.6"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.6.tgz#8f3e0198a34c3ae17091b35571d3afd31999365a"
+  integrity sha512-Pspx3oKAPJtjNwE92YS05HQoY7z2SFyOpHo9MqJor3BXAGNaPUs83CuVp9VISFkSjyRfiTpmKuAYGJB7S7hOxw==
 
 uglify-js@^3.1.4:
   version "3.7.7"
